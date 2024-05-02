@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is a branch of computer science
+That aims to create intelligent machines capable of performing tasks
+That typically require human intelligence.
+These tasks include:
+Learning
+Reasoning
+Problem-solving
+perception, and language understanding.
+AI has rapidly advanced in recent years, revolutionizing industries and transforming the way we live and work.

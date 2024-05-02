@@ -1,0 +1,3 @@
+Web development is the process of creating Websitesites and Website applications that are accessible via the internet. 
+It encompasses various technologies, tools, and programming languages to bring digital experiences to life. 
+From simple static Website pages to complex Website applications, Website development plays a crucial role in shaping the online landscape.

@@ -1,0 +1,3 @@
+HI....
+My name is Junaid.
+Today i am learning file handling in python.
